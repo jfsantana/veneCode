@@ -105,10 +105,10 @@ export function Footer() {
             <ul className="mt-4 space-y-3">
               <li>
                 <a
-                  href="mailto:hola@venecode.com"
+                  href="mailto:venecode.contact@gmail.com"
                   className="text-sm text-muted-foreground hover:text-primary transition-colors"
                 >
-                  hola@venecode.com
+                  venecode.contact@gmail.com
                 </a>
               </li>
               <li className="text-sm text-muted-foreground">
