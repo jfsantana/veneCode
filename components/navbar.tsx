@@ -13,6 +13,7 @@ export function Navbar() {
     { href: "#servicios", label: "Servicios" },
     { href: "#esencia", label: "Nuestra Esencia" },
     { href: "#tech", label: "Tech Stack" },
+    { href: "#aliados", label: "Aliados" },
   ]
 
   return (

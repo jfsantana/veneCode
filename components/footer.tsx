@@ -14,6 +14,7 @@ export function Footer() {
     empresa: [
       { label: "Sobre Nosotros", href: "#esencia" },
       { label: "Tech Stack", href: "#tech" },
+      { label: "Aliados", href: "#aliados" },
       { label: "Contacto", href: "#contacto" },
     ],
     legal: [

@@ -3,6 +3,7 @@ import { HeroSection } from "@/components/hero-section"
 import { ServicesSection } from "@/components/services-section"
 import { EssenceSection } from "@/components/essence-section"
 import { TechStackSection } from "@/components/tech-stack-section"
+import { AlliesSection } from "@/components/allies-section"
 import { Footer } from "@/components/footer"
 
 export default function Home() {
@@ -13,6 +14,7 @@ export default function Home() {
       <ServicesSection />
       <EssenceSection />
       <TechStackSection />
+      <AlliesSection />
       <Footer />
     </main>
   )
